@@ -1,6 +1,6 @@
-
 #!/usr/bin/python
-""" shows class Review"""
+
+""" shows class State"""
 import models
 from models.base_model import BaseModel, Base
 from os import getenv
